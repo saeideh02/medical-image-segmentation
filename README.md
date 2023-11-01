@@ -61,7 +61,7 @@ Pixel quality metrics include pixel accuracy (PA). Region quality metrics includ
 Its block diagram is shown in the figure below:
 </br>
 </br>
-<img src="Images/chart2.png" width="" height="200">
+<img src="Images/chart2.png">
 </br>
 </br>
 
