@@ -32,7 +32,7 @@ We could classifies deep learning-based medical image segmentation into four cat
 
 ## 4. Implementation
 </br>
-Medical image segmentation involves several key steps:
+<b>Medical image segmentation involves several key steps:</b>
 
 1. Obtain a dataset and divide it into training, testing, and validation sets.
 
