@@ -57,7 +57,6 @@ Its block diagram is shown in the figure below:
 </br>
 </br>
 <img src="Images/chart2.png">
-</br>
 
 ## 4. Implementation
 
