@@ -53,8 +53,17 @@ Pixel quality metrics include pixel accuracy (PA). Region quality metrics includ
 
 3. Apply a suitable medical image segmentation method.
 
-4. To assess the quality of the segmentation, establish relevant performance metrics and validate the results accordingly.
+4. Classification.
 
+5. Performance metrics and validate the results.
+</br>
+</br>
+Its block diagram is shown in the figure below:
+</br>
+</br>
+<img src="Images/chart2.png" width="" height="200">
+</br>
+</br>
 
 ### 4.1. Dataset
 Under this subsection, you'll find information about the dataset used for the medical image segmentation task. It includes details about the dataset source, size, composition, preprocessing, and loading applied to it.
