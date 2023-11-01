@@ -26,6 +26,19 @@ We could classifies deep learning-based medical image segmentation into four cat
 </br>
 </br>
 <img src="Images/chart.png" width="" height="200">
+</br>
+</br>
+<b>Loss functions:</b>
+</br>
+Loss functions that are used more in these models are:
+Cross entropy loss, Weighted cross entropy loss, Dice loss, Tversky loss, Generalised dice loss, Boundary loss, Exponential logarithmic loss and ... [2].
+</br>
+</br>
+<b>Evaluation metrics:</b>
+</br>
+The evaluation of image segmentation performance relies on pixel quality, region quality and surface distance quality. Some popular metrics are: 
+Pixel quality metrics include pixel accuracy (PA). Region quality metrics include Dice score, volume overlap error (VOE) and relative volume difference (RVD). Surface distance quality metrics include average symmetric surface distance (ASD) and maximum symmetric surface distance (MSD) [2].
+
 
 ## 3. The Proposed Method
 
@@ -60,4 +73,5 @@ Under this subsection, you'll find information about the dataset used for the me
 
 ## 5. Refrences
 [1]: Liu, X., Song, L., Liu, S., & Zhang, Y. (2021). A review of deep-learning-based medical image segmentation methods. Sustainability, 13(3), 1224.
-
+</br>
+[2]: Wang, R., Lei, T., Cui, R., Zhang, B., Meng, H., & Nandi, A. K. (2022). Medical image segmentation using deep learning: A survey. IET Image Processing, 16(5), 1243-1267.
