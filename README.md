@@ -41,7 +41,6 @@ Pixel quality metrics include pixel accuracy (PA). Region quality metrics includ
 
 
 ## 3. The Proposed Method
-</br>
 <b>Medical image segmentation involves several key steps:</b>
 
 1. Obtain a dataset and divide it into training, testing, and validation sets.
@@ -54,14 +53,11 @@ Pixel quality metrics include pixel accuracy (PA). Region quality metrics includ
 
 5. Performance metrics and validate the results.
 </br>
-</br>
 Its block diagram is shown in the figure below:
 </br>
 </br>
 <img src="Images/chart2.png">
 </br>
-</br>
-
 ## 4. Implementation
 
 
