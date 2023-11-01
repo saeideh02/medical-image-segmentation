@@ -10,6 +10,7 @@
 ## 1. Problem Statement
 Image segmentation is a vital aspect of image processing, differentiating itself from image classification by providing pixel-level identification of image content. It involves dividing an image into distinct regions based on features like color, texture, and shape, enabling internal consistency within regions and clear distinctions between them.
 </br>
+</br>
 medical image segmentation is a critical prerequisite for healthcare systems, aiding in disease diagnosis and treatment planning. It analyze and process 2D or 3D images to achieve segmentation, extraction, three-dimensional reconstruction and three-dimensional display of human organs, soft tissues and diseased bodies. 
 With the rapid development of deep learning, image segmentation methods, have achieved good results and it encompasses various applications, from the brain and eyes to the chest, abdomen, and heart [1].
 
