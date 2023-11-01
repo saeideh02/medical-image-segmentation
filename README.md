@@ -25,7 +25,7 @@ U-Net, which uses a U-shaped architecture with skip-connections, has become a st
 We could classifies deep learning-based medical image segmentation into four categories: FCN, U-Net, GAN, and Transformers. See the figure below for these categories with examples for each [1].
 </br>
 </br>
-<img src="Images/chart.png" width="" height="200">
+<img src="Images/chart.png" width="">
 </br>
 </br>
 <b>Loss functions:</b>
