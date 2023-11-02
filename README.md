@@ -74,7 +74,7 @@ It should be noted that some of the images in the dataset do not have some class
 Some examples of segmented images of this dataset are shown in the figure below
 
 
-<img src="Images/Seg_Img.png" height="400">
+<img src="Images/Seg_Img.png" height="400" width="500">
 
 ### 4.2. Model
 
