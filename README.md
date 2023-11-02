@@ -72,7 +72,7 @@ The dataset has three classes: "large_bowel", "small_bowel", "stomach"
 It should be noted that some of the images in the dataset do not have some classes and there are also images that do not include any of the classes.
 
 Some examples of segmented images of this dataset are shown in the figure below
-<img src="Images/Seg_Img.png">
+<img src="Images/Seg_Img.png" height="200">
 
 ### 4.2. Model
 
