@@ -77,7 +77,7 @@ Some examples of segmented images of this dataset are shown in the figure below
 <center><img src="Images/Seg_Img.png" height="500" width="500"></center>
 
 ### 4.2. Model
-
+ To implement this model, we first use the Basic U-NET model. Because it is both simple and effective.
 
 
 ### 4.3. Configurations
