@@ -62,8 +62,17 @@ Its block diagram is shown in the figure below:
 
 
 ### 4.1. Dataset
-Under this subsection, you'll find information about the dataset used for the medical image segmentation task. It includes details about the dataset source, size, composition, preprocessing, and loading applied to it.
-[Dataset](https://drive.google.com/file/d/1-2ggesSU3agSBKpH-9siKyyCYfbo3Ixm/view?usp=sharing)
+The dataset that we used is related to this kaggle challenge:
+'https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation/data'
+
+The annotations are provided as RLE-encoded masks, and the images are in 16-bit grayscale PNG format.
+
+The dataset has three classes: "large_bowel", "small_bowel", "stomach" 
+
+It should be noted that some of the images in the dataset do not have some classes and there are also images that do not include any of the classes.
+
+Some examples of segmented images of this dataset are shown in the figure below
+<img src="Images/Seg_Img.png">
 
 ### 4.2. Model
 
